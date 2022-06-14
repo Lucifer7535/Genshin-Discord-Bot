@@ -1,0 +1,9 @@
+{
+  "application_id": 111111111111111100,
+  "test_server_id": 111111111111111100,
+  "bot_token": "111111111111111111111111111111111111111111111111111111111111111111111",
+  "auto_daily_reward_time": 8,
+  "auto_check_resin_threshold": 145,
+  "auto_loop_delay": 2,
+  "slash_cmd_cooldown": 5
+}
