@@ -1,0 +1,44 @@
+{
+  "notes": {
+    "resin": "<:resin:984878051911421962>",
+    "realm_currency": "<:realm_currency:984878046408474634>",
+    "commission": "<:commission:984878027873878147>",
+    "enemies_of_note": "<:domain:984878034702196886>",
+    "transformer": "<:transformer:984878053828218880>"
+  },
+  "items": {
+    "mora": "<:mora:984879062726107176>",
+    "primogem": "<:primogem:984879064886169680>",
+    "intertwined_fate": "<:interwined_fate:984879060243075152>"
+  },
+  "elements": {
+    "anemo": "<:anemo:984878025676042340>",
+    "cryo": "<:cryo:984878030092632145>",
+    "dendro": "<:dendro:984878032185593898>",
+    "electro": "<:electro:984878036602191984>",
+    "geo": "<:geo:984878039122976821>",
+    "hydro": "<:hydro:984878041924796496>",
+    "pyro": "<:pyro:984878043946426378>"
+  },
+  "fightprop": {
+    "FIGHT_PROP_HP": "<:hp:986000703610839131>",
+    "FIGHT_PROP_HP_PERCENT": "<:hpp:986003126404382731>",
+    "FIGHT_PROP_ATTACK": "<:atk:986000689681547354>",
+    "FIGHT_PROP_ATTACK_PERCENT": "<:atkp:986003121849376788>",
+    "FIGHT_PROP_DEFENSE": "<:def:986000696065277962>",
+    "FIGHT_PROP_DEFENSE_PERCENT": "<:defp:986003123950735410>",
+    "FIGHT_PROP_CRITICAL": "<:cr:986000693825503243>",
+    "FIGHT_PROP_CRITICAL_HURT": "<:cdmg:986000691824836689>",
+    "FIGHT_PROP_CHARGE_EFFICIENCY": "<:er:986000701345902622>",
+    "FIGHT_PROP_HEAL_ADD": "<:hpp:986003126404382731>",
+    "FIGHT_PROP_ELEMENT_MASTERY": "<:em:986000698699292752>",
+    "FIGHT_PROP_PHYSICAL_ADD_HURT": "<:atk:986000689681547354>",
+    "FIGHT_PROP_FIRE_ADD_HURT": "<:pyro:984878043946426378>",
+    "FIGHT_PROP_ELEC_ADD_HURT": "<:electro:984878036602191984>",
+    "FIGHT_PROP_WATER_ADD_HURT": "<:hydro:984878041924796496>",
+    "FIGHT_PROP_GRASS_ADD_HURT": "<:dendro:984878032185593898>",
+    "FIGHT_PROP_WIND_ADD_HURT": "<:anemo:984878025676042340>",
+    "FIGHT_PROP_ROCK_ADD_HURT": "<:geo:984878039122976821>",
+    "FIGHT_PROP_ICE_ADD_HURT": "<:cryo:984878030092632145>"
+  }
+}

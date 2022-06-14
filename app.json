@@ -1,0 +1,7 @@
+{
+  "name": "Genshin Discord Bot",
+  "description": "Genshin Discord Bot for claiming rewards and getting real time notes.",
+  "repository": "https://github.com/Lucifer7535/Genshin-Discord-Bot",
+  "keywords": ["python", "discord", "bot", "voicechat"],
+  "logo": "https://i.imgur.com/C6raN32.jpg"
+}
