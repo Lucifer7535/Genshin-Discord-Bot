@@ -53,7 +53,7 @@ In General Information, get the Bot's Application ID.
 21. VERY IMPORTANT: Make sure to make forked repository private to prevent people from seeing bot config variables.
 22. You Can do this by opening your repository going to settings. Scroll till last and there is a option - change repository visibility.
 <br><pre></pre>
-<a href="https://heroku.com/deploy?template=https://github.com/Lucifer7535/Genshin-Discord-Bot/tree/main">
+<a href="https://heroku.com/deploy?template=your_repo_link">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
