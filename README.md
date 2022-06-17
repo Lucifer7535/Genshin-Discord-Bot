@@ -8,6 +8,8 @@ Click the image above or the invitation link: [Bot Invitation Link](https://disc
 
 Discord Server require someone with administrative rights to invite the Bot.
 
+-->If having any doubts how to use or deploy the bot. Join this [server](https://discord.gg/AX2WmFTFWS)
+
 You can use this Discord bot to directly query various information in Genshin Impact, including:
 
 1. Instant notes, including resin, realm currency, parametric transformer time remaining, exploration dispatched...etc.
