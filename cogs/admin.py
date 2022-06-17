@@ -11,7 +11,7 @@ from utility.config import config
 class Admin(commands.Cog):
     def __init__(self, bot):
         self.bot: commands.Bot = bot
-        self.presence_string: list[str] = ['Genshin']
+        self.presence_string: list[str] = ['Genshin Impact']
         self.change_presence.start()
 
     # Sync Slash commands to global or current server
