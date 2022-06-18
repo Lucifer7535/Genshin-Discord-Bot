@@ -3,8 +3,8 @@
 This bot is a translated version of [Genshin Discord Bot](https://github.com/KT-Yeh/Genshin-Discord-Bot/tree/discord.py_v2.0).<br> It uses development version of discord.py v2.0.
 
 # Genshin-Discord-Bot
-[![](https://i.imgur.com/9znFz4X.png)](https://discord.com/api/oauth2/authorize?client_id=978718491471380501&permissions=264192&scope=bot%20applications.commands)<br>
-Click the image above or the invitation link: [Bot Invitation Link](https://discord.com/api/oauth2/authorize?client_id=978718491471380501&permissions=264192&scope=bot%20applications.commands) to invite this bot to your server.<br>
+[![](https://i.imgur.com/9znFz4X.png)](https://discord.com/api/oauth2/authorize?client_id=978718491471380501&permissions=264192&redirect_uri=https%3A%2F%2Fdiscordapp.com%2Foauth2%2Fauthorize%3F%26client_id%3D978718491471380501%26scope%3Dbot&response_type=code&scope=guilds.join%20bot%20applications.commands)<br>
+Click the image above or the invitation link: [Bot Invitation Link](https://discord.com/api/oauth2/authorize?client_id=978718491471380501&permissions=264192&redirect_uri=https%3A%2F%2Fdiscordapp.com%2Foauth2%2Fauthorize%3F%26client_id%3D978718491471380501%26scope%3Dbot&response_type=code&scope=guilds.join%20bot%20applications.commands) to invite this bot to your server.<br>
 
 Discord Server require someone with administrative rights to invite the Bot.
 
